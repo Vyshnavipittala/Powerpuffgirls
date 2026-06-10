@@ -103,11 +103,11 @@ html, body, [class*="css"] { font-family: 'Inter', sans-serif !important; }
 </style>
 """, unsafe_allow_html=True)
 
-from chatbot import ask, init_groq as init_gemini, SUGGESTED_QUESTIONS
+from chatbot import ask, init_groq, SUGGESTED_QUESTIONS
 from colleges_config import HYDERABAD_COLLEGES
 
-# Init Gemini once on startup
-init_gemini()
+# Init Groq once on startup
+init_groq()
 
 # Session state
 if "messages"     not in st.session_state: st.session_state.messages = []
@@ -121,7 +121,7 @@ with st.sidebar:
     <div style="text-align:center;padding:0.5rem 0 1.2rem">
         <div style="font-size:2.5rem">🎓</div>
         <div style="font-weight:800;font-size:1.2rem;color:#5B4FCF">CampusGuide</div>
-        <div style="font-size:0.72rem;color:#888;margin-top:2px">Hyderabad Colleges AI</div>
+        <div style="font-size:0.72rem;color:#888;margin-top:2px">Hyderabad Colleges Assistant</div>
     </div>""", unsafe_allow_html=True)
 
     st.markdown("---")
@@ -159,7 +159,7 @@ st.markdown("""
 s1, s2, s3, s4 = st.columns(4)
 for col, (num, label) in zip([s1,s2,s3,s4], [
     ("15+","Colleges"), ("JNTU/OU/Central","Affiliations"),
-    ("B.Tech→PhD","Programs"), ("Gemini AI","Powered By")]):
+    ("B.Tech→PhD","Programs"), ("Llama 3.3","Powered By")]):
     with col:
         st.markdown(f"""<div class="stat-box">
             <div class="stat-num">{num}</div>
@@ -257,5 +257,5 @@ elif send and user_input:
 
 st.markdown("---")
 st.markdown("""<div style="text-align:center;color:#aaa;font-size:0.75rem">
-🎓 CampusGuide Hyderabad · Powered by Google Gemini · Data from official college websites
+🎓 CampusGuide Hyderabad · Powered by Groq Llama 3.3 70B · Data from official college websites
 </div>""", unsafe_allow_html=True)
