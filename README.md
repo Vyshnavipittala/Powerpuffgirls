@@ -225,7 +225,9 @@ Try asking:
 ### Powerpuffgirls
 
 - Vyshnavi Pittala
-- Team Members
+- Shloka Sugandham
+- Sakshi Sreekanth
+- Sharanya Pendeyala
 
 ---
 
