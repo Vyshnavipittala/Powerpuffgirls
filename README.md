@@ -227,7 +227,7 @@ Try asking:
 - Vyshnavi Pittala
 - Shloka Sugandham
 - Sakshi Sreekanth
-- Sharanya Pendeyala
+- Sharanya Pendyala
 
 ---
 
