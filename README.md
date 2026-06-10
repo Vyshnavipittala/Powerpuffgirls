@@ -26,7 +26,7 @@ An AI-powered chatbot for answering questions about colleges in Hyderabad, Telan
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️Tech Stack
 
 - **Frontend:** Streamlit with custom CSS
 - **Backend:** Python + LangChain
