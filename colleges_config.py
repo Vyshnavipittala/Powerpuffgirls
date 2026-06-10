@@ -179,6 +179,67 @@ HYDERABAD_COLLEGES = {
         "tags": ["engineering", "vjit"],
         "description": "Engineering college affiliated to JNTU Hyderabad offering B.Tech programs in various branches.",
     },
+    "GNITS": {"full_name":"G. Narayanamma Institute of Technology and Science for Women","location":"Shaikpet, Hyderabad","type":"Engineering College","established":"1997","affiliation":"JNTUH","phone":"N/A","email":"info@gnits.ac.in","url":"https://www.gnits.ac.in","description":"Women's engineering college.","tags":["gnits","engineering","women","cse","ece"]},
+
+"CMRCET": {"full_name":"CMR College of Engineering and Technology","location":"Kandlakoya, Hyderabad","type":"Engineering College","established":"2002","affiliation":"JNTUH","phone":"N/A","email":"info@cmrcet.ac.in","url":"https://www.cmrcet.ac.in","description":"Engineering college under CMR Group.","tags":["cmrcet","engineering","cse"]},
+
+"CMRTC": {"full_name":"CMR Technical Campus","location":"Kandlakoya, Hyderabad","type":"Engineering College","established":"2009","affiliation":"JNTUH","phone":"N/A","email":"info@cmrtc.ac.in","url":"https://www.cmrtc.ac.in","description":"Engineering college.","tags":["cmrtc","engineering","cse"]},
+
+"GRIET": {"full_name":"Gokaraju Rangaraju Institute of Engineering and Technology","location":"Bachupally, Hyderabad","type":"Engineering College","established":"1997","affiliation":"JNTUH","phone":"N/A","email":"info@griet.ac.in","url":"https://www.griet.ac.in","description":"Top engineering college.","tags":["griet","engineering","placements"]},
+
+"MREC": {"full_name":"Malla Reddy Engineering College","location":"Hyderabad","type":"Engineering College","established":"2002","affiliation":"JNTUH","phone":"N/A","email":"info@mrec.ac.in","url":"https://www.mrec.ac.in","description":"Engineering college.","tags":["mrec","engineering"]},
+
+"MRUH": {"full_name":"Malla Reddy University","location":"Hyderabad","type":"University","established":"2020","affiliation":"University","phone":"N/A","email":"info@mallareddyuniversity.ac.in","url":"https://mallareddyuniversity.ac.in","description":"Private university.","tags":["mru","university"]},
+
+"MAHINDRA": {"full_name":"Mahindra University","location":"Bahadurpally, Hyderabad","type":"University","established":"2020","affiliation":"University","phone":"N/A","email":"info@mahindrauniversity.edu.in","url":"https://mahindrauniversity.edu.in","description":"Private university.","tags":["mahindra","university"]},
+
+"ANURAG": {"full_name":"Anurag University","location":"Ghatkesar, Hyderabad","type":"University","established":"2020","affiliation":"University","phone":"N/A","email":"info@anurag.edu.in","url":"https://anurag.edu.in","description":"Private university.","tags":["anurag","university"]},
+
+"GNI": {"full_name":"Guru Nanak Institutions","location":"Ibrahimpatnam, Hyderabad","type":"Engineering College","established":"2001","affiliation":"JNTUH","phone":"N/A","email":"info@gniindia.org","url":"https://gniindia.org","description":"Engineering institution.","tags":["guru nanak","gni","engineering"]},
+
+"IARE": {"full_name":"Institute of Aeronautical Engineering","location":"Dundigal, Hyderabad","type":"Engineering College","established":"2000","affiliation":"JNTUH","phone":"N/A","email":"info@iare.ac.in","url":"https://www.iare.ac.in","description":"Autonomous engineering college.","tags":["iare","engineering"]},
+
+"SNIST": {"full_name":"Sreenidhi Institute of Science and Technology","location":"Ghatkesar, Hyderabad","type":"Engineering College","established":"1997","affiliation":"JNTUH","phone":"N/A","email":"info@sreenidhi.edu.in","url":"https://www.sreenidhi.edu.in","description":"Autonomous engineering college.","tags":["snist","engineering"]},
+
+"VARDHAMAN": {"full_name":"Vardhaman College of Engineering","location":"Shamshabad, Hyderabad","type":"Engineering College","established":"1999","affiliation":"JNTUH","phone":"N/A","email":"info@vardhaman.org","url":"https://vardhaman.org","description":"Engineering college.","tags":["vardhaman","engineering"]},
+
+"KMIT": {"full_name":"Keshav Memorial Institute of Technology","location":"Narayanguda, Hyderabad","type":"Engineering College","established":"2007","affiliation":"JNTUH","phone":"N/A","email":"info@kmit.in","url":"https://kmit.in","description":"Known for CSE.","tags":["kmit","engineering","cse"]},
+
+"BVRIT": {"full_name":"BV Raju Institute of Technology","location":"Narsapur","type":"Engineering College","established":"1997","affiliation":"JNTUH","phone":"N/A","email":"info@bvrit.ac.in","url":"https://bvrit.ac.in","description":"Engineering college.","tags":["bvrit","engineering"]},
+
+"BVRITW": {"full_name":"BVRIT Women's College","location":"Hyderabad","type":"Women's Engineering College","established":"2012","affiliation":"JNTUH","phone":"N/A","email":"info@bvrit.ac.in","url":"https://bvrithyderabad.edu.in","description":"Women's engineering college.","tags":["bvrit women","women","engineering"]},
+
+"CVR": {"full_name":"CVR College of Engineering","location":"Mangalpalli, Hyderabad","type":"Engineering College","established":"2001","affiliation":"JNTUH","phone":"N/A","email":"info@cvr.ac.in","url":"https://cvr.ac.in","description":"Engineering college.","tags":["cvr","engineering"]},
+
+"ACE": {"full_name":"ACE Engineering College","location":"Hyderabad","type":"Engineering College","established":"2007","affiliation":"JNTUH","phone":"N/A","email":"info@aceec.ac.in","url":"https://aceec.ac.in","description":"Engineering college.","tags":["ace","engineering"]},
+
+"STANLEY": {"full_name":"Stanley College of Engineering and Technology for Women","location":"Hyderabad","type":"Women's Engineering College","established":"2008","affiliation":"OU","phone":"N/A","email":"info@stanley.edu.in","url":"https://stanley.edu.in","description":"Women's engineering college.","tags":["stanley","women","engineering"]},
+
+"METHODIST": {"full_name":"Methodist College of Engineering and Technology","location":"Hyderabad","type":"Engineering College","established":"2008","affiliation":"OU","phone":"N/A","email":"info@methodist.edu.in","url":"https://methodist.edu.in","description":"Engineering college.","tags":["methodist","engineering"]},
+
+"STANNS": {"full_name":"St. Ann's College for Women","location":"Hyderabad","type":"Degree College","established":"1983","affiliation":"OU","phone":"N/A","email":"info@stannscollege.com","url":"https://stannscollege.com","description":"Women's college.","tags":["st anns","women"]},
+
+"STMARYS": {"full_name":"St. Mary's Engineering College","location":"Hyderabad","type":"Engineering College","established":"2007","affiliation":"JNTUH","phone":"N/A","email":"info@stmarys.ac.in","url":"https://stmarys.ac.in","description":"Engineering college.","tags":["st marys","engineering"]},
+
+"AURORA": {"full_name":"Aurora University","location":"Hyderabad","type":"University","established":"2024","affiliation":"University","phone":"N/A","email":"info@aurora.edu.in","url":"https://aurora.edu.in","description":"Private university.","tags":["aurora","university"]},
+
+"AEC": {"full_name":"Aurora Engineering College","location":"Hyderabad","type":"Engineering College","established":"1998","affiliation":"JNTUH","phone":"N/A","email":"info@aurora.ac.in","url":"https://aurora.ac.in","description":"Engineering college.","tags":["aurora engineering","engineering"]},
+
+"CBIT": {"full_name":"Chaitanya Bharathi Institute of Technology","location":"Gandipet, Hyderabad","type":"Engineering College","established":"1979","affiliation":"OU","phone":"N/A","email":"info@cbit.ac.in","url":"https://cbit.ac.in","description":"Top engineering college.","tags":["cbit","engineering"]},
+
+"LORDS": {"full_name":"Lords Institute of Engineering and Technology","location":"Hyderabad","type":"Engineering College","established":"2003","affiliation":"OU","phone":"N/A","email":"info@lords.ac.in","url":"https://lords.ac.in","description":"Engineering college.","tags":["lords","engineering"]},
+
+"MJCET": {"full_name":"Muffakham Jah College of Engineering and Technology","location":"Banjara Hills, Hyderabad","type":"Engineering College","established":"1980","affiliation":"OU","phone":"N/A","email":"info@mjcet.ac.in","url":"https://mjcet.ac.in","description":"Engineering college.","tags":["mjcet","engineering"]},
+
+"NIZAM": {"full_name":"Nizam Institute of Engineering and Technology","location":"Hyderabad","type":"Engineering College","established":"1997","affiliation":"JNTUH","phone":"N/A","email":"info@nizam.ac.in","url":"https://nizam.ac.in","description":"Engineering college.","tags":["nizam","engineering"]},
+
+"WOXSEN": {"full_name":"Woxsen University","location":"Sangareddy","type":"University","established":"2014","affiliation":"University","phone":"N/A","email":"info@woxsen.edu.in","url":"https://woxsen.edu.in","description":"Private university.","tags":["woxsen","university"]},
+
+"ICFAI": {"full_name":"ICFAI University Hyderabad","location":"Hyderabad","type":"University","established":"2008","affiliation":"University","phone":"N/A","email":"info@ifheindia.org","url":"https://ifheindia.org","description":"Private university.","tags":["icfai","university"]},
+
+"KLH": {"full_name":"KL University Hyderabad Campus","location":"Hyderabad","type":"University","established":"2019","affiliation":"University","phone":"N/A","email":"info@klh.edu.in","url":"https://klh.edu.in","description":"KL University Hyderabad Campus.","tags":["kl university","klh"]},
+
+"TKR": {"full_name":"TKR College of Engineering and Technology","location":"Hyderabad","type":"Engineering College","established":"2002","affiliation":"JNTUH","phone":"N/A","email":"info@tkrcet.ac.in","url":"https://tkrcet.ac.in","description":"Engineering college.","tags":["tkr","engineering"]},
 }
 
 GENERAL_INFO = """

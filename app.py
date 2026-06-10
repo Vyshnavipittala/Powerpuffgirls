@@ -26,7 +26,7 @@ html, body, [class*="css"] { font-family: 'Inter', sans-serif !important; }
     margin-bottom: 1.5rem;
     color: white;
 }
-.header-box h1 { color: white !important; font-size: 1.9rem; font-weight: 800; margin: 0 0 0.3rem; }
+.header-box h1 { color: black !important; font-size: 1.9rem; font-weight: 800; margin: 0 0 0.3rem; }
 .header-box p  { color: rgba(255,255,255,0.85) !important; margin: 0; font-size: 0.95rem; }
 
 .stat-box {
