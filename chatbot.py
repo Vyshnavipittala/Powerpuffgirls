@@ -118,7 +118,6 @@ SUGGESTED_QUESTIONS = [
     "What is EAMCET and how does it work?",
     "Tell me about IIIT Hyderabad admissions",
     "Which colleges offer MBA in Hyderabad?",
-    "What are the fees at CBIT?",
     "Tell me about NIT Warangal placements",
     "What courses does Osmania University offer?",
     "Tell me about ISB Hyderabad PGP program",
